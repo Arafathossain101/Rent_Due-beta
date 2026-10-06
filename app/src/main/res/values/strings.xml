@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rent Record</string>
+    <string name="my_properties">My Properties</string>
+    <string name="add_house">Add House</string>
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="loading_records">Loading your records…</string>
+</resources>

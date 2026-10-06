@@ -1,0 +1,6 @@
+{
+  "name": "Rent Record",
+  "description": "Elder-friendly property and rent record management app for landlords",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

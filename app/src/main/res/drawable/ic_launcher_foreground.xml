@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (21dp to 87dp) -->
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M54,26 L26,50 L34,50 L34,78 L50,78 L50,62 L58,62 L58,78 L74,78 L74,50 L82,50 Z" />
+    <path
+        android:fillColor="#80CBC4"
+        android:pathData="M42,54 L50,54 L50,62 L42,62 Z M58,54 L66,54 L66,62 L58,62 Z" />
+</vector>

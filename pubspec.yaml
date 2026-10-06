@@ -1,0 +1,56 @@
+name: rent_due
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.8
+
+environment:
+  sdk: ^3.13.4
+
+# ----------------------------------------------------
+# PACKAGES USED BY THE APP
+# ----------------------------------------------------
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  file_picker: ^13.1.0
+  image_picker: ^1.0.4
+  intl: ^0.20.3
+  path: ^1.9.1
+  path_provider: ^2.1.6
+  shared_preferences: ^2.5.5
+  google_mobile_ads: ^5.2.0
+
+# ----------------------------------------------------
+# DEVELOPMENT-ONLY TOOLS
+# ----------------------------------------------------
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^6.0.0
+
+# ----------------------------------------------------
+# APP ICON
+# After any change here, run:
+#   dart run flutter_launcher_icons
+# Then uninstall the old app from the phone and run again.
+# ----------------------------------------------------
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/appicon.png"
+  remove_alpha_ios: true
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/icon/appicon.png"
+
+# ----------------------------------------------------
+# FLUTTER SETTINGS AND ASSETS
+# ----------------------------------------------------
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/rent is due.jpg
